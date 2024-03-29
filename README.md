@@ -1,2 +1,2 @@
-# Analyzing the AI Executive Order and public comments associated to it on the regulations.gov docket associated to it.
+# Analyzing the AI Executive Order, M-24-10 Memo and public comments associated to them on their respective regulations.gov dockets.
 
